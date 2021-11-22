@@ -1,5 +1,7 @@
 # weather-app
+
 Weather App for The Odin Project
 
-## Live Demo ##
+## Live Demo
+
 https://verybag.github.io/weather-app/
