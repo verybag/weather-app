@@ -75,7 +75,8 @@ input {
 
 .results {
   display: none;
-  max-width: 400px;
+  max-width: 330px;
+
   padding: 2rem;
   border-radius: 5px;
   margin: 4rem auto;
@@ -85,7 +86,7 @@ input {
 }
 
 .results.active {
-  display: flex;
+  display: block;
 }
 
 .results h3 {
@@ -101,11 +102,7 @@ input {
 }
 
 .details {
-  display: flex;
   font-size: 1.4rem;
-  flex-direction: column;
-  padding: 1em;
-  margin-left: 2rem;
   justify-content: center;
   align-items: left;
 }
